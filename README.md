@@ -14,4 +14,4 @@ The code here is my exercise answers
 
 #### WEEK 4 Neural Networks: Learning
 
-![Backpropagation](machine-learning-ex3/backpropagation.png)
+![Backpropagation](machine-learning-ex4/backpropagation.png)
