@@ -12,3 +12,6 @@ The code here is my exercise answers
 
 ![Scheme](machine-learning-ex3/XNOR.png)
 
+#### WEEK 4 Neural Networks: Learning
+
+![Backpropagation](machine-learning-ex3/backpropagation.png)
