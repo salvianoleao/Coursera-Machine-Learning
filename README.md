@@ -14,4 +14,8 @@ The code here is my exercise answers
 
 #### WEEK 4 Neural Networks: Learning
 
-![Backpropagation](machine-learning-ex4/backpropagation.png)
+<img src="machine-learning-ex4/backpropagation.png" width = "640" height = "360"/>
+
+#### WEEK 5 Evaluating a Learning Algorithm | Bias vs. Variance
+
+ <img src="machine-learning-ex5/precision-and-recall.png" width = "640" height = "360"/>
