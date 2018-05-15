@@ -39,3 +39,9 @@ The code here is my exercise answers
 	<img src="machine-learning-ex6/SVM_Gaussian_Kernel.png" width = "420" height = "250" style="border: 1px solid black"/>	
 	<p>SVM Gaussian Kernel</p>
 </div>
+
+### WEEK 7 K-means Clustering and Principal Component Analysis
+<div align="center">
+	<img src="machine-learning-ex7/cluster.png" width = "390" height = "300" style="border: 1px solid black"/>	
+	<p>K-means Clustering</p>
+</div>
