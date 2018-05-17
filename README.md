@@ -45,3 +45,13 @@ The code here is my exercise answers
 	<img src="machine-learning-ex7/cluster.png" width = "390" height = "300" style="border: 1px solid black"/>	
 	<p>K-means Clustering</p>
 </div>
+
+### WEEK 9 Anomaly Detection and Recommender Systems
+<div align="center">
+	<img src="machine-learning-ex8/anomaly.png" width = "405" height = "300" style="border: 1px solid black"/>	
+	<p>Anomaly Detection</p>
+</div>
+<div align="center">
+	<img src="machine-learning-ex8/anomaly.png" width = "405" height = "300" style="border: 1px solid black"/>	
+	<p>Anomaly Detection</p>
+</div>
