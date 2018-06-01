@@ -1,6 +1,8 @@
 ## Coursera Machine Learning -- by Andrew Ng
 The code here is my exercise answers
 
+Finish the course on Jun 1st 2018
+
 #### WEEK 1 Introduction
 
 #### WEEK 2 Linear Regression
@@ -52,3 +54,10 @@ The code here is my exercise answers
 	<p>Anomaly Detection</p>
 </div>
 
+### WEEK 10 Large Scale Machine Learning
+<div align="center">
+	<img src="Stochastic_gradient_descent.png" width = "405" height = "300" style="border: 1px solid black"/>	
+	<p>Stochastic Gradient Descent</p>
+</div>
+
+### WEEK 11 Application Example: Photo OCR
